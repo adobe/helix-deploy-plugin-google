@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/adobe/helix-deploy-plugin-google/compare/v1.0.1...v1.0.2) (2026-05-25)
+
+
+### Bug Fixes
+
+* **deps:** update external fixes ([#7](https://github.com/adobe/helix-deploy-plugin-google/issues/7)) ([cc67a95](https://github.com/adobe/helix-deploy-plugin-google/commit/cc67a95a43d03e65e115467bfdf9afb1eb1b11d4))
+
 ## [1.0.1](https://github.com/adobe/helix-deploy-plugin-google/compare/v1.0.0...v1.0.1) (2026-05-18)
 
 
