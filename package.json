@@ -37,20 +37,20 @@
   },
   "dependencies": {
     "@google-cloud/functions": "4.2.2",
-    "@google-cloud/secret-manager": "6.2.0",
+    "@google-cloud/secret-manager": "6.3.0",
     "@google-cloud/storage": "7.21.0",
     "chalk-template": "1.1.2",
     "semver": "7.8.5"
   },
   "devDependencies": {
     "@adobe/eslint-config-helix": "3.0.29",
-    "@eslint/config-helpers": "0.6.0",
+    "@eslint/config-helpers": "0.7.0",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@semantic-release/npm": "13.1.5",
     "c8": "11.0.0",
     "eslint": "9.4.0",
-    "fs-extra": "11.3.6",
+    "fs-extra": "11.4.0",
     "husky": "9.1.7",
     "lint-staged": "16.4.0",
     "mocha": "11.7.6",
