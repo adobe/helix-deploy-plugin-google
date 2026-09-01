@@ -49,13 +49,13 @@
     "@semantic-release/git": "10.0.1",
     "@semantic-release/npm": "13.1.5",
     "c8": "11.0.0",
-    "eslint": "9.4.0",
+    "eslint": "9.39.5",
     "fs-extra": "11.4.0",
     "husky": "9.1.7",
     "lint-staged": "16.4.0",
-    "mocha": "11.7.6",
+    "mocha": "11.8.0",
     "mocha-multi-reporters": "1.5.1",
-    "semantic-release": "25.0.8"
+    "semantic-release": "25.0.9"
   },
   "engines": {
     "node": ">=18.0"
