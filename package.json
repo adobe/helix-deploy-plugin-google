@@ -38,7 +38,7 @@
   "dependencies": {
     "@google-cloud/functions": "4.2.2",
     "@google-cloud/secret-manager": "6.3.0",
-    "@google-cloud/storage": "7.21.0",
+    "@google-cloud/storage": "7.22.0",
     "chalk-template": "1.1.2",
     "semver": "7.8.5"
   },
