@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/adobe/helix-deploy-plugin-google/compare/v1.0.7...v1.0.8) (2026-09-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @google-cloud/storage to v7.22.0 ([#18](https://github.com/adobe/helix-deploy-plugin-google/issues/18)) ([9982133](https://github.com/adobe/helix-deploy-plugin-google/commit/9982133a7a22d7c732bd1959405e9a373eb9f486))
+
 ## [1.0.7](https://github.com/adobe/helix-deploy-plugin-google/compare/v1.0.6...v1.0.7) (2026-08-11)
 
 
