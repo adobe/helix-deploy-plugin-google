@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/adobe/helix-deploy-plugin-google/compare/v1.0.8...v1.0.9) (2026-10-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency chalk-template to v1.1.3 ([#25](https://github.com/adobe/helix-deploy-plugin-google/issues/25)) ([929cf23](https://github.com/adobe/helix-deploy-plugin-google/commit/929cf23da388268267568024a71bde3fad752ebd))
+
 ## [1.0.8](https://github.com/adobe/helix-deploy-plugin-google/compare/v1.0.7...v1.0.8) (2026-09-01)
 
 
