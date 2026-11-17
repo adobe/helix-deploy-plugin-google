@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/adobe/helix-deploy-plugin-google/compare/v1.0.9...v1.0.10) (2026-11-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency semver to v7.8.6 ([#28](https://github.com/adobe/helix-deploy-plugin-google/issues/28)) ([962ffdb](https://github.com/adobe/helix-deploy-plugin-google/commit/962ffdb5066df918a82a9d8bb02e9d7c2513ba88))
+
 ## [1.0.9](https://github.com/adobe/helix-deploy-plugin-google/compare/v1.0.8...v1.0.9) (2026-10-13)
 
 
